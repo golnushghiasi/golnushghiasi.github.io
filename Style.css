@@ -522,8 +522,8 @@ nav .fa-solid{
 }
 
 .profile-img {
-    width: 220px;
-    height: 220px;
+    width: 400px;
+    height: 380px;
     object-fit: cover;
     border-radius: 20px;
     margin-right: 80px;
