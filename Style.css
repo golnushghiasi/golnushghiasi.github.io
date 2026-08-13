@@ -510,3 +510,21 @@ nav .fa-solid{
     border-radius: 20px;
     margin-right: 80px;
 }
+.header-content {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 100%;
+}
+
+.header-text {
+    flex: 1;
+}
+
+.profile-img {
+    width: 220px;
+    height: 220px;
+    object-fit: cover;
+    border-radius: 20px;
+    margin-right: 80px;
+}
