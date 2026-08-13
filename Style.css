@@ -483,14 +483,7 @@ nav .fa-solid{
     display: block;
 }
     
-.profile-img {
-    width: 180px;
-    height: 180px;
-    object-fit: cover;
-    border-radius: 20px;
-    display: block;
-    margin-top: 30px;
-}
+
 .header-content {
     display: flex;
     align-items: center;
@@ -503,13 +496,7 @@ nav .fa-solid{
     flex: 1;
 }
 
-.profile-img {
-    width: 200px;
-    height: 200px;
-    object-fit: cover;
-    border-radius: 20px;
-    margin-right: 80px;
-}
+
 .header-content {
     display: flex;
     align-items: center;
